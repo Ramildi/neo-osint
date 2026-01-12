@@ -12,7 +12,7 @@ Neo-OSINT is a modular, terminal-based OSINT toolkit with an interactive menu sy
 
 ## Installation
 ```bash
-1.git clone https://github.com/Ramildi/neo-osint.git
-2.cd neo-osint
-3.pip install -r requirements.txt
-4.python neo.py
+git clone https://github.com/Ramildi/neo-osint.git
+cd neo-osint
+pip install -r requirements.txt
+python neo.py
