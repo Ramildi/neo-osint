@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+colorama
+dnspython
+phonenumbers
+Pillow
+PyPDF2
+python-docx
